@@ -27,6 +27,7 @@ We love the entire process of developing creative applications. We enjoy the cha
 - Our old projects
 - Restaurant Recommendation App (React-Native)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
+- Machine Learning Model for Recommendation Systems
 - Our next blog
 - Our CSS skills
 
@@ -35,7 +36,9 @@ We love the entire process of developing creative applications. We enjoy the cha
 - 📱 React Native
 - Firebase
 - React Context API
-- Styled Components  
+- Styled Components
+- Android Development
+- Machine Learning Techniques  
 
 ## 💼 Language Used
 
@@ -43,6 +46,7 @@ We love the entire process of developing creative applications. We enjoy the cha
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=8CC84B)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=Jupyter&color=F37626)
 
 </br>
