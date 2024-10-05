@@ -1,9 +1,8 @@
-<p align="center">
-
+<div align="center">
 
 ![](https://github.com/kyy-95631488/CallCenter/blob/main/assets/CapstonrTeam.gif)
 
-</p>
+</div>
 
 <h3 align="center">
 Hi there, we're the <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Capstone Team</a> 👋
@@ -11,7 +10,7 @@ Hi there, we're the <a href="https://www.yushi.dev/" target="_blank" rel="norefe
 
 <h2 align="center">
 We're developing an amazing application! 💻
-</h2> 
+</h2>
 
 We love the entire process of developing creative applications. We enjoy the challenge of finding solutions and spending time to meet new people. Learning how to address user needs and improve our ideas is what drives us.
 
@@ -45,7 +44,6 @@ We love the entire process of developing creative applications. We enjoy the cha
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=8CC84B)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=Jupyter&color=F37626)
-
 
 </br>
 
