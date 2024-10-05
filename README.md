@@ -9,24 +9,20 @@
 <p>We love the entire process of developing creative applications. We enjoy the challenge of finding solutions and spending time to meet new people. Learning how to address user needs and improve our ideas is what drives us.</p>
 
 <h3>🔭 We're currently working on</h3>
-<ul>
-    <li>Our old projects</li>
-    <li>Restaurant Recommendation App (React-Native)</li>
-    <li>Mobile + Desktop Spotify Clone (Working on it soon...)</li>
-    <li>Machine Learning Model for Recommendation Systems</li>
-    <li>Our next blog</li>
-    <li>Our CSS skills</li>
-</ul>
+<p>Our old projects</p>
+<p>Restaurant Recommendation App (React-Native)</p>
+<p>Mobile + Desktop Spotify Clone (Working on it soon...)</p>
+<p>Machine Learning Model for Recommendation Systems</p>
+<p>Our next blog</p>
+<p>Our CSS skills</p>
 
 <h3>🌱 We're currently learning</h3>
-<ul>
-    <li>📱 React Native</li>
-    <li>Firebase</li>
-    <li>React Context API</li>
-    <li>Styled Components</li>
-    <li>Android Development</li>
-    <li>Machine Learning Techniques</li>  
-</ul>
+<p>📱 React Native</p>
+<p>Firebase</p>
+<p>React Context API</p>
+<p>Styled Components</p>
+<p>Android Development</p>
+<p>Machine Learning Techniques</p>  
 
 <h3>💼 Language Used</h3>
 
