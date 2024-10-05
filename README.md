@@ -1,7 +1,7 @@
 <p align="center">
 
 
-
+![](https://github.com/kyy-95631488/CallCenter/blob/main/assets/CapstonrTeam.gif)
 
 </p>
 
