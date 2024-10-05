@@ -11,9 +11,8 @@
 <h3>🔭 We're currently working on</h3>
 <p>Our old projects</p>
 <p>Restaurant Recommendation App (React-Native)</p>
-<p>Mobile + Desktop Spotify Clone (Working on it soon...)</p>
+<p>Mobile + Desktop (Working on it soon...)</p>
 <p>Machine Learning Model for Recommendation Systems</p>
-<p>Our next blog</p>
 <p>Our CSS skills</p>
 
 <h3>🌱 We're currently learning</h3>
@@ -43,8 +42,6 @@
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
