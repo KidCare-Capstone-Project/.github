@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://github.com/kyy-95631488/CallCenter/blob/main/assets/CapstonrTeam.gif)
+![](https://github.com/kyy-95631488/CallCenter/blob/main/assets/SiDokterBackgrond.gif)
 
 <h3>Hi there, we're the <a href="#" target="_blank" rel="noreferrer">Capstone Team</a> 👋</h3>
 
