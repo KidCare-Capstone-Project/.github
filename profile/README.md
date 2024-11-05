@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/kyy-95631488/CallCenter/blob/main/assets/KidCare%20-%20Capstone.gif" width="300" height="auto" alt="Capstone GIF">
+<img src="https://github.com/kyy-95631488/CallCenter/blob/main/assets/KidCare%20-%20Capstone.gif" width="400" height="auto" alt="Capstone GIF">
 
 <h3>Hi there, we're the <a href="https://si-dokter.vercel.app/" target="_blank" rel="noreferrer">Capstone Team</a> 👋</h3>
 
