@@ -1,6 +1,6 @@
 <div align="center">
 
-![](#)
+![](https://github.com/kyy-95631488/CallCenter/blob/main/assets/KidCare%20-%20Capstone.gif)
 
 <h3>Hi there, we're the <a href="https://si-dokter.vercel.app/" target="_blank" rel="noreferrer">Capstone Team</a> 👋</h3>
 
