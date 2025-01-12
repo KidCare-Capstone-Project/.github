@@ -9,16 +9,12 @@
 <p>We love the entire process of developing creative applications. We enjoy the challenge of finding solutions and spending time to meet new people. Learning how to address user needs and improve our ideas is what drives us.</p>
 
 <h3>🔭 We're currently working on</h3>
-<p>Our old projects</p>
-<p>Restaurant Recommendation App (React-Native)</p>
 <p>Mobile + Desktop (Working on it soon...)</p>
 <p>Machine Learning Model for Recommendation Systems</p>
-<p>Our CSS skills</p>
 
 <h3>🌱 We're currently learning</h3>
-<p>📱 React Native</p>
 <p>Firebase</p>
-<p>React Context API</p>
+<p>NodeJS API</p>
 <p>Styled Components</p>
 <p>Android Development</p>
 <p>Machine Learning Techniques</p>  
