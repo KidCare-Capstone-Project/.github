@@ -9,7 +9,7 @@
 <p>We love the entire process of developing creative applications. We enjoy the challenge of finding solutions and spending time to meet new people. Learning how to address user needs and improve our ideas is what drives us.</p>
 
 <h3>🔭 We're currently working on</h3>
-<p>Mobile + Desktop (Working on it soon...)</p>
+<p>Android Developer</p>
 <p>Machine Learning Model for Recommendation Systems</p>
 
 <h3>🌱 We're currently learning</h3>
