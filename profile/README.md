@@ -28,15 +28,8 @@
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52B8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=8CC84B)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=Jupyter&color=F37626)
-
-<br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
 <br>
 
